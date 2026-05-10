@@ -21,7 +21,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/maitri-m" target="_blank">
+  <a href="https://www.linkedin.com/in/maitri-m" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:itsmemaitri13@gmail.com">
