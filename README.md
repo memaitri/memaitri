@@ -74,13 +74,12 @@ Built with **Python & Flask** and deployed with a live user interface.
 Centralized issue-tracking and management platform designed for educational institutions.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memaitri&show_icons=true&theme=tokyonight" height="175"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memaitri&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=memaitri&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
+
+  <img src="https://streak-stats.demolab.com?user=memaitri&theme=tokyonight&hide_border=true" height="175"/>
 </p>
 
 ---
@@ -88,9 +87,8 @@ Centralized issue-tracking and management platform designed for educational inst
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memaitri&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memaitri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 💡 Quote I Live By
