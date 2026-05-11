@@ -61,8 +61,12 @@ Centralized issue-tracking system for educational institutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memaitri&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=memaitri&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
   <img src="https://streak-stats.demolab.com?user=memaitri&theme=tokyonight&hide_border=true" height="175"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=memaitri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
