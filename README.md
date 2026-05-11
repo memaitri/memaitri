@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE student 
+- 🎓 BTech CSE student
 - 🩺 Built **SwasthyaTrack** — a health monitoring platform demonstrated to District & Joint Commissioners of Nashik
 - 🏆 **Best Paper Award** at MIT's 8th International Symposium (IGTT) for OLAS — a proctored exam platform
 - 🌱 Currently deepening skills in **Java (Spring Boot)**, **AI/ML- Python**, and **System Design**
@@ -61,12 +61,12 @@ Centralized issue-tracking system for educational institutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=memaitri&show_icons=true&theme=tokyonight" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memaitri&theme=tokyonight" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=memaitri&show_icons=true&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://streak-stats.demolab.com?user=memaitri&theme=tokyonight&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memaitri&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memaitri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
