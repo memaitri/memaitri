@@ -68,11 +68,6 @@ Centralized issue-tracking system for educational institutions.
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=memaitri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memaitri&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 💡 Quote I Live By
