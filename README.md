@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+ML+Explorer;Building+Systems+That+Actually+Matter;Open+to+Internships+%26+Collaborations+🚀" />
 </p>
 
----
+--
 
 ## 🚀 About Me
 
