@@ -9,14 +9,12 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech CSE student
-- 🩺 Built **SwasthyaTrack** — a health monitoring platform demonstrated to District & Joint Commissioners of Nashik
-- 🏆 **Best Paper Award** at MIT's 8th International Symposium (IGTT) for OLAS — a proctored exam platform
-- 🌱 Currently deepening skills in **Java (Spring Boot)**, **AI/ML- Python**, and **System Design**
-- 💬 Ask me about Python, React, Node.js, Flask, or full-stack project architecture
+- 🎓 BTech CSE | Class of 2027 
+- 🩺 Built **SwasthyaTrack** — demonstrated to District & Joint Commissioners of Nashik for potential state-wide rollout
+- 🏆 **Best Paper Award** at MIT's 8th International Symposium (IGTT 2025) for **OLAS**
+- 🤖 Built **ResumeScreenerAgent** — an AI pipeline using LangGraph, FAISS, Groq LLaMA 3, and FastAPI
+- 🌱 Currently deepening skills in **Java (Spring Boot)**, **AI/ML**,**Python* and **System Design**
 - ⚡ Fun fact: I debug emotionally and technically.
-
----
 
 ## 🌐 Connect With Me
 
@@ -55,6 +53,13 @@ ML model predicting student performance from study habits, deployed via Flask wi
 
 ### 🏫 [Campus Issue Manager](https://github.com/memaitri/Issue-management-for-educational-institutions)
 Centralized issue-tracking system for educational institutions.
+
+### 🤖 [ResumeScreenerAgent](https://github.com/memaitri/ResumeScreenerAgent)
+AI-powered resume screening pipeline using LangGraph, FAISS vector search, Groq LLaMA 3, FastAPI, and React. End-to-end agentic workflow for automated candidate screening.
+
+### 🚦 [TrafficViolationSystem](https://github.com/memaitri/TrafficViolationSystem)
+Full-stack traffic violation management system (Spring Boot · Java 21 · PostgreSQL · Docker) — deployed on Render with dynamic fine calculation and real-time dashboard.
+
 
 ---
 
