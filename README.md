@@ -42,7 +42,7 @@
 ### 🩺 [SwasthyaTrack](https://github.com/memaitri/SwasthyaTrack-platform)
 Full-stack school health monitoring platform (React · TypeScript · Node.js · PostgreSQL) — deployed on Railway and presented to state government officials for potential state-wide rollout.
 
-### 📝 [OLAS — Online Learning & Assessment System](https://github.com/memaitri/OLAS)
+### 📝 [OLAS — Online Learning & Assessment System](https://github.com/memaitri/Online-learning-and-Assessment-System-OLAS)
 Proctored online exam platform with real-time monitoring (React · Vite · Socket.IO · Prisma · MySQL) — co-built with a teammate; won Best Paper Award at an international symposium.
 
 ### 🛡 [VulNex](https://github.com/memaitri/VulNex)
