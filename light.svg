@@ -211,15 +211,11 @@
       <rect x="834" y="474" width="300" height="92" fill="#FFFFFF" stroke="#2563EB" stroke-width="1.2"/>
       <line x1="834" y1="498" x2="1134" y2="498" stroke="rgba(37,99,235,0.30)" stroke-width="1"/>
       <line x1="999.0" y1="498" x2="999.0" y2="566" stroke="rgba(37,99,235,0.30)" stroke-width="1"/>
-      <text x="844" y="491" font-size="11" font-weight="700" letter-spacing="1" fill="#0B1E3A">DRAWN BY: MAITRI M.</text>
-      <text x="844" y="516" font-size="9.5" fill="#4A6A8A">LOCATION</text>
-      <text x="844" y="530" font-size="10.5" fill="#0B1E3A">Pune, India</text>
-      <text x="844" y="548" font-size="9.5" fill="#4A6A8A">EMAIL</text>
-      <text x="844" y="561" font-size="9.7" fill="#0B1E3A">itsmemaitri13@gmail.com</text>
+      <text x="844" y="491" font-size="11" font-weight="700" letter-spacing="1" fill="#0B1E3A">DRAWN BY: MAITRI </text>
+    
       <text x="1009.0" y="516" font-size="9.5" fill="#4A6A8A">GITHUB</text>
       <text x="1009.0" y="530" font-size="10" fill="#0B1E3A">github.com/memaitri</text>
-      <text x="1009.0" y="548" font-size="9.5" fill="#4A6A8A">LINKEDIN</text>
-      <text x="1009.0" y="561" font-size="9.7" fill="#0B1E3A">/in/maitri-m</text>
+     
     </g>
   </g>
   
