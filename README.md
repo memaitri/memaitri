@@ -17,7 +17,7 @@
 
 - 🎓 BTech CSE | Class of 2027 
 - 🩺 Built **SwasthyaTrack** — demonstrated to District & Joint Commissioners of Nashik for potential state-wide rollout
-- 🏆 **Best Paper Award** at MIT's 8th International Symposium (IGTT 2025) for **OLAS**
+- 🏆 **Best Paper Award** at MIT's 8th International Symposium (IGTT 2026) for **OLAS**
 - 🤖 Built **ResumeScreenerAgent** — an AI pipeline using LangGraph, FAISS, Groq LLaMA 3, and FastAPI
 - 🌱 Currently deepening skills in **Java (Spring Boot)**, **AI/ML**,**Python* and **System Design**
 - ⚡ Fun fact: I debug emotionally and technically.
