@@ -119,7 +119,7 @@
             <animate attributeName="stroke" values="rgba(125,211,252,0.35);#38BDF8;rgba(125,211,252,0.35)" dur="4s" begin="0.5s" repeatCount="indefinite"/>
           </rect>
           <text x="776" y="274" font-family="'Inter','Segoe UI',sans-serif" font-size="15.5" font-weight="700" fill="#EAF4FF">OLAS</text>
-          <text x="776" y="294" font-family="'Inter',sans-serif" font-size="11.5" fill="#7FA8C9">Best Paper Award — MIT IGTT 2025</text>
+          <text x="776" y="294" font-family="'Inter',sans-serif" font-size="11.5" fill="#7FA8C9">Best Paper Award — MIT IGTT 2026</text>
           <rect x="776" y="304" width="49.0" height="18" rx="4" fill="none" stroke="#FBBF24" stroke-width="1"/>
           <text x="800.5" y="317" text-anchor="middle" font-family="'JetBrains Mono',monospace" font-size="9.5" letter-spacing="1" fill="#FBBF24">AWARD</text>
         </g>
