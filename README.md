@@ -144,12 +144,12 @@ ML model predicting student performance from study hours, sleep, stress, and att
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=memaitri&theme=radical&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=memaitri&theme=radical&hide_border=true" width="49%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=memaitri&theme=radical&no-frame=true&row=1&column=4" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=memaitri&theme=redical&hide_border=true&area=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=memaitri&theme=radical&hide_border=true&area=true" width="98%"/>
 </div>
 
 <br>
@@ -157,10 +157,11 @@ ML model predicting student performance from study hours, sleep, stress, and att
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<!-- Add the snake workflow below to memaitri/memaitri repo (.github/workflows/snake.yml) to auto-generate this animation daily -->
-<img src="https://raw.githubusercontent.com/memaitri/memaitri/output/github-contribution-grid-snake.svg" width="98%"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/memaitri/memaitri/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/memaitri/memaitri/output/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/memaitri/memaitri/output/github-contribution-grid-snake.svg" width="98%"/>
+</picture>
 </div>
 
 <br>
