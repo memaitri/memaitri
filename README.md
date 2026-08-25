@@ -139,20 +139,12 @@ ML model predicting student performance from study hours, sleep, stress, and att
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=memaitri&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=memaitri&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<img src="https://raw.githubusercontent.com/memaitri/memaitri/output/metrics.svg" width="98%"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=memaitri&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=memaitri&theme=radical&no-frame=true&row=1&column=4" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=memaitri&theme=radical&hide_border=true" width="60%"/>
 </div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=memaitri&theme=radical&hide_border=true&area=true" width="98%"/>
-</div>
-
-<br>
 
 ## 🐍 Contribution Snake
 
