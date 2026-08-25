@@ -4,13 +4,20 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Building+real-world+tech%2C+not+just+demos;Full-stack+%2B+AI+%2B+a+little+chaos;I+debug+emotionally+%26+technically;Currently+deep+in+Quantum+ML+%F0%9F%A7%A9;Build.+Break.+Learn.+Repeat.&font=Fira%20Code&center=true&width=600&height=45&color=A855F7&vCenter=true&size=20&pause=1200"/>
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/memaitri/memaitri/main/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/memaitri/memaitri/main/light.svg" />
+  <img alt="Maitri's profile card" src="https://raw.githubusercontent.com/memaitri/memaitri/main/dark.svg" width="90%"/>
+</picture>
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=memaitri&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/memaitri?style=for-the-badge&color=3b82f6&labelColor=black)
 
 </div>
-
 <br>
 
 ## 🚀 About Me
