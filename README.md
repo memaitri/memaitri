@@ -14,19 +14,13 @@
 
 ## 🚀 About Me
 
-```yaml
-role: BTech CSE '27 
-focus: [Full-Stack Development, AI/ML, Applied System Design]
-highlights:
-  - 🩺 Built SwasthyaTrack — demoed to District & Joint Commissioners, Nashik (state rollout track)
-  - 🏆 Best Paper Award — MIT 8th Intl. Symposium (IGTT 2026) for OLAS
-  - 🤖 Built ResumeScreenerAgent — agentic pipeline: LangGraph + FAISS + Groq LLaMA 3
-  - 🧬 Exploring Quantum ML for IEEE Quantum AI Hackathon 2026
-currently_learning: [Spring Boot, System Design, Advanced AI/ML]
-fun_fact: "I debug emotionally and technically."
-```
-
-<br>
+- 🎓 **BTech CSE '27** — Full-Stack Development, AI/ML, Applied System Design
+- 🩺 Built **SwasthyaTrack** — demoed to District & Joint Commissioners, Nashik (state rollout track)
+- 🏆 **Best Paper Award** — MIT 8th Intl. Symposium (IGTT 2026) for **OLAS**
+- 🤖 Built **ResumeScreenerAgent** — agentic pipeline: LangGraph + FAISS + Groq LLaMA 3
+- 🧬 Exploring **Quantum ML** for IEEE Quantum AI Hackathon 2026
+- 🌱 Currently learning: Spring Boot, System Design, Advanced AI/ML
+- ⚡ Fun fact: I debug emotionally and technically.
 
 ## 🛠 Tech Arsenal
 
